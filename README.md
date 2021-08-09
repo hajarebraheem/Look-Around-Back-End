@@ -29,7 +29,7 @@ for solving problems that may occur:
 
 ### User Routes
 |     Method    | URI Pattern       | |Description  |
-| ------------- | -------------     ||-------------|   
+| ------------- | -------------     |-------------|   
 | POST          | user/register     |sign up user |
 | POST          | user/login        |login user |
 | PUT           | user/update/:id   |update user information|
