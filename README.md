@@ -28,7 +28,7 @@ for solving problems that may occur:
 ## Catalog of Routes
 
 ### User Routes
-|     Method    | URI Pattern       | |Description  |
+|     Method    | URI Pattern       | Description  |
 | ------------- | -------------     |-------------|   
 | POST          | user/register     |sign up user |
 | POST          | user/login        |login user |
