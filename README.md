@@ -1,10 +1,10 @@
-# Look-Around-Back-end
+# Look Around Back-end
 
 ## What Look Around Does
 Whether you are planning a family vacation, traveling with your friends or going on a business trip inside or outside the Kingdom, Look Around is your gateway to book your trip in just minutes.
 
 ## Look Around Front-end Repository
-[Look Around Front-end](https://git.generalassemb.ly/abdullahfaden/Look-Around-Front-end)
+[Look Around Front-end](https://github.com/hajarebraheem/Look-Around-Front-End)
 
 
 ## Proplem Solving Strategy 
@@ -61,3 +61,7 @@ for solving problems that may occur:
 ## Installation Instructions
 ```html
 npm i // to install all the packages
+```
+
+## Recources 
+* [Mailgun: used for forgot password](https://www.mailgun.com/)
